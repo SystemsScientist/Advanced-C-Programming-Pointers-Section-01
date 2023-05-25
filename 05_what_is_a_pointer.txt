@@ -1,0 +1,16 @@
+
+Section 01: What is a Pointer
+--------------------------------------------------------------------------------
+
+What is a Pointer?
+
+A pointer is a variable that refers to or points to an address
+in your computer's memory
+
+
+What is an Address?
+
+An address is a specific location in memory
+
+
+
