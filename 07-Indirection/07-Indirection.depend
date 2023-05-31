@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685569017 source:/home/snarkydata/udemy-courses/C-Courses/Advanced-C-Programming-Pointers/Section-01-Pointer-Basics/07-Indirection/main.c
+	<stdio.h>
+	<stdlib.h>
+
