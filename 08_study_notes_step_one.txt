@@ -95,6 +95,8 @@ Indirection
 	numPtr = &num;		// address of num is assigned to numPtr
 	num2 = *numPtr;		// value of num is dereferenced via
 				// numPtr and assigned to num2
+				// see main.c in project 07-Indirection
+				// in this section for reference
 
 
 
