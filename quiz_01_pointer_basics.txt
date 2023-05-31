@@ -1,0 +1,72 @@
+
+Section 01 Quiz: Pointer Basics
+-----------------------------------------------------------------------------
+
+Question #1
+
+Which of the following is a required tool for this course?
+
+	A. Any C programming editor or IDE and a C compiler
+	   for any desktop operating system?
+
+	B. The CodeLite editor for Windows
+
+	C. A C++ compiler
+
+Answer: B
+
+
+Question #2
+
+Which of these statements is true?
+
+	A. The value of a pointer variable is an address
+
+	B. The value of an address variable is a pointer
+
+	C. A pointer variable has no value
+
+Answer: A 
+
+
+Question #3
+
+Look at this code:
+
+	int num;
+	int *numPtr;
+	int x;
+
+	num = 100;
+	numPtr = &num;
+	x = *numPtr;
+
+What is numPtr?
+
+	A. numPtr is an address whose value is assigned to the
+	   pointer variable num
+
+	B. numPtr is an integer whose value is assigned to the
+	   pointer variable x
+
+	C. numPtr is a pointer variable whose value is the address
+	   of num
+
+Answer: C
+
+
+Question #4
+
+What is 'indirection'?
+
+	A. Using a pointer to access the data at the address to
+	   which the pointer refers
+
+	B. Assigning an address to a pointer
+
+	C. Using the * operator to multiply pointer values
+
+Answer: A
+
+
+
